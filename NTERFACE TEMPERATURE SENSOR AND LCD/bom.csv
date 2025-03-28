@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1",1,"220 Ω Resistor"
+"U2",1," LCD 16 x 2"
+"U3",1," Temperature Sensor [TMP36]"
